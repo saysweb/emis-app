@@ -11,32 +11,4 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
-
-    //-- I am working..
-    
-    //---Adding new codes
-    
-    //-- Meanwhile Rahul edits and commits
-    
-    //--Change on main branch
-    
-    //--rahul edits
-    
-    //--more changes
-
-    // rahulchange
-
-    // sukantchange
-
-    // sukant change 2
-
-    //rahul change 2
-
-    //new
-
-    // rahul branch1
-
-    //sukant branch 1
-
-    //wtf
 }
