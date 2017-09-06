@@ -1,7 +1,8 @@
 <resources>
-<string name="app_name">EMIS - Education Management Information System</string>
-<string name="prompt_email">Username</string>
-<string name="prompt_password">Password</string>
-<string name="action_sign_in">Log In</string>
+    <string name="app_name">EMIS - Education Management Information System</string>
+    <string name="prompt_email">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Log In</string>
+    <string name="instn">DEPARTMENT OF EDUCATION, PAPUA NEW GUINEA</string>
 </resources>
 
